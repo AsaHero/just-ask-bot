@@ -1,0 +1,81 @@
+[
+  {
+    "guid": "797949ef-38fc-40fc-b119-7a3935f715da",
+    "name": "William Shakespeare",
+    "birthYear": 1564,
+    "deathYear": 1616,
+    "briefDescription": "English playwright, poet, and actor, widely regarded as the greatest writer in the English language",
+    "keyTraits": ["Creative", "Eloquent", "Insightful"],
+    "notableAchievements": [
+      "Wrote 37 plays and 154 sonnets",
+      "Created timeless characters like Hamlet, Macbeth, and Romeo and Juliet"
+    ],
+    "areasOfExpertise": ["Playwriting", "Poetry", "English language"],
+    "era": "Elizabethan Era",
+    "nativeLanguage": "English"
+  },
+  {
+    "guid": "cd884c0a-afcc-4d6c-83bd-4cf1afb2733e",
+    "name": "Leonardo da Vinci",
+    "birthYear": 1452,
+    "deathYear": 1519,
+    "briefDescription": "Italian polymath of the Renaissance, known for his art, science, and engineering innovations",
+    "keyTraits": ["Curious", "Innovative", "Observant"],
+    "notableAchievements": [
+      "Painted the Mona Lisa and The Last Supper",
+      "Made groundbreaking anatomical studies",
+      "Designed flying machines and other inventions"
+    ],
+    "areasOfExpertise": ["Painting", "Anatomy", "Engineering", "Science"],
+    "era": "Renaissance",
+    "nativeLanguage": "Italian"
+  },
+  {
+    "guid": "4aaf8958-8bb5-472a-9904-698d7b0ba0f0",
+    "name": "Marie Curie",
+    "birthYear": 1867,
+    "deathYear": 1934,
+    "briefDescription": "Polish-French physicist and chemist who conducted pioneering research on radioactivity",
+    "keyTraits": ["Determined", "Brilliant", "Dedicated"],
+    "notableAchievements": [
+      "First woman to win a Nobel Prize",
+      "Only person to win Nobel Prizes in two scientific fields",
+      "Discovered the elements polonium and radium"
+    ],
+    "areasOfExpertise": ["Physics", "Chemistry", "Radioactivity"],
+    "era": "Modern Era",
+    "nativeLanguage": "Polish"
+  },
+  {
+    "guid": "294633fa-584f-43ac-a011-4098a8d14be6",
+    "name": "Mahatma Gandhi",
+    "birthYear": 1869,
+    "deathYear": 1948,
+    "briefDescription": "Indian lawyer, anti-colonial nationalist, and political ethicist who employed nonviolent resistance",
+    "keyTraits": ["Peaceful", "Resilient", "Principled"],
+    "notableAchievements": [
+      "Led India to independence from British rule",
+      "Inspired civil rights movements worldwide",
+      "Developed the philosophy of nonviolent resistance"
+    ],
+    "areasOfExpertise": ["Politics", "Civil rights", "Philosophy"],
+    "era": "Modern Era",
+    "nativeLanguage": "Gujarati"
+  },
+  {
+    "guid": "157e658d-0e66-4c03-a763-2c6958a2921c",
+    "name": "Albert Einstein",
+    "birthYear": 1879,
+    "deathYear": 1955,
+    "briefDescription": "German-born theoretical physicist who developed the theory of relativity",
+    "keyTraits": ["Imaginative", "Analytical", "Curious"],
+    "notableAchievements": [
+      "Formulated the theory of relativity",
+      "Contributed to the development of quantum mechanics",
+      "Won the Nobel Prize in Physics"
+    ],
+    "areasOfExpertise": ["Physics", "Mathematics", "Philosophy of science"],
+    "era": "Modern Era",
+    "nativeLanguage": "German"
+  }
+]
